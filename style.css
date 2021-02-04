@@ -1,0 +1,51 @@
+body
+{
+    background-color:rgb(0,100,100);
+    color: #ffffff;
+    font-family: 'Georgia',Arial;
+}
+.logo a.square {
+    width: 250px;
+    height: 250px;
+    display:block;
+    float: left;
+    background: url('./images.png') no-repeat center center;
+    overflow: hidden;
+    text-indent: -9999%;
+}
+
+.box-1
+{
+    
+    font-size: 20px;
+    text-align: center;
+    color: black; 
+    display: inline-block;
+    float:right;
+}
+
+.box-2
+{
+    background-color:rgb(0,130,130)e;
+    font-size: 20px;
+    text-align: center;
+    padding-top: ;
+}
+
+.box-3
+{
+    background-color: grey;
+    font-family: 'Georgia',Arial;
+}
+
+.box-4
+{
+    font-size: 20px;
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-5
+{
+    padding-top: 50px;
+}
